@@ -34,7 +34,13 @@ u v w                          (E lines: undirected edge between vertex u and v 
 ```
 
 ## Team
-Nikhil Yadav (2502220100516), Parakh Pratyush (2502220100546), Niraj Prajapati (2502220100520)
-Guide: Prof. Ashish Kumar Gupta
+Nikhil Yadav (2502220100516)
+
+Parakh Pratyush (2502220100546)
+
+Niraj Prajapati (2502220100520)
+
+## Guide
+Prof. Ashish Kumar Gupta
 
 SDG mapping: SDG 9 (Industry, Innovation and Infrastructure), SDG 11 (Sustainable Cities and Communities).
